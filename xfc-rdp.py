@@ -103,7 +103,7 @@ X-GNOME-Autostart-enabled=true""".format(link)
         print("..........................................................") 
         print("..Youtube Video Tutorial - https://youtu.be/xqpCQCJXKxU ..") 
         print("..........................................................") 
-        print("Log in PIN : 987654321") 
+        print("Log in PIN : 123456") 
         print("User Name : RDX") 
         print("User Pass : root") 
         while True:
