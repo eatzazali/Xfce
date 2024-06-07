@@ -3,7 +3,7 @@ import subprocess
 import shutil
 
 CRD_SSH_Code = input("Google CRD SSH Code :")
-username = "RDX" #@param {type:"string"}
+username = "user" #@param {type:"string"}
 password = "root" #@param {type:"string"}
 os.system(f"useradd -m {username}")
 os.system(f"adduser {username} sudo")
@@ -104,7 +104,7 @@ X-GNOME-Autostart-enabled=true""".format(link)
         print("..Youtube Video Tutorial - https://youtu.be/xqpCQCJXKxU ..") 
         print("..........................................................") 
         print("Log in PIN : 123456") 
-        print("User Name : RDX") 
+        print("User Name : user") 
         print("User Pass : root") 
         while True:
             pass
